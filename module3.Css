@@ -1,0 +1,45 @@
+Vous n'avez presque plus d'espace de stockage … 
+Si vous atteignez votre limite de stockage, vous ne pourrez plus créer ou modifier de fichiers, envoyer ou recevoir d'e-mails avec Gmail, ni sauvegarder de données dans Google Photos.
+
+*{
+	margin: 0;
+	padding: 0;
+	
+}
+.navbar{
+
+border: none;
+background-color: black;
+color: #61122F;
+}
+body{
+	background-color: #61122F;
+	color: white;
+}
+.glyphicon{
+	font-size: 30px;
+	color:#61122F; 
+}
+
+.center{
+	width: 90%;
+	background-color: grey;
+
+}
+.container
+{
+	background-color: grey;
+}
+.text-center{
+	font-size: 30px;
+}
+
+h2{
+	text-align: center;
+}
+#myNavbar ul li a {
+	color: #61122F;
+}
+.navbar-brand{
+font-size: 30px;	
+}
